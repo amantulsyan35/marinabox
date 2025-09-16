@@ -6,4 +6,7 @@
 # Python cache files - will match at any level
 **/__pycache__/
 **/*.py[cod]
-**/*$py.class 
+**/*$py.class
+
+# Generated runtime data
+marinabox/data/ 
